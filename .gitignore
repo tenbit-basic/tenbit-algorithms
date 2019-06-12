@@ -7,8 +7,6 @@
 .project
 .gitignore.bak
 
-*.iml
-
 ## IDE
 
 */.settings/
@@ -25,3 +23,5 @@
 target/
 bin/
 /.idea/workspace.xml
+
+*.iml
